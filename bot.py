@@ -3,7 +3,6 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 from aiogram.types import WebAppInfo, Message
 from aiogram.filters import Command, CommandStart
 from aiogram import Bot, Dispatcher
-from config import TOKEN
 import logging
 import asyncio 
 
